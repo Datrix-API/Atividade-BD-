@@ -1,3 +1,7 @@
 EU SOU O PEDRO SM
+<<<<<<< HEAD
 
 paiva dev
+=======
+Eu sou juquinha
+>>>>>>> cd9d65ed2332797b063038dcbd828359551393ec
