@@ -1,7 +1,14 @@
 EU SOU O PEDRO SM
-<<<<<<< HEAD
+#<<<<<<< HEAD
 
-paiva dev
+#paiva dev
 =======
-Eu sou juquinha
+#Eu sou juquinha
+#teste - Luciano
+#Eu sou o Gabriel, um dos Devs do Datrix
+
+
+
 >>>>>>> cd9d65ed2332797b063038dcbd828359551393ec
+
+
